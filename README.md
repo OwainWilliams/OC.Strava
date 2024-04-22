@@ -1,7 +1,7 @@
 # OC.Strava
 WIP - Strava API library for .Net
 
-
+`Code` is the bearertoken from Strava
 
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
